@@ -1,0 +1,9 @@
+
+
+Host name : cs5200-fall2019-poranki.camfldnst76t.us-east-2.rds.amazonaws.com
+
+username : navyasaiporanki
+
+password : 'Sharmila449'
+
+port : 3306
